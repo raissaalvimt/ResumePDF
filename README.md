@@ -22,6 +22,6 @@ I am a Data Analyst with a background in Statistics, currently working at Funda�
 
 ## Download My CV 📄
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white)]
+![Download CV](https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white)
 
 Feel free to reach out via email or connect with me on LinkedIn! 🤝
