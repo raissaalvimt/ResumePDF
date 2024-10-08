@@ -1,4 +1,4 @@
-# Raíssa Teixeira 👩‍💻
+# Raíssa Alvim Teixeira 👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raissaalvimt/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO) 
@@ -19,26 +19,7 @@ I am a Data Analyst with a background in Statistics, currently working at Funda�
 ## Education 🎓
 
 - **Bachelor's Degree in Statistics**  
-  [Your University Name] - [Year of Graduation]
-
-## Work Experience 🏢
-
-### Data Analyst  
-**Fundação Getulio Vargas (FGV)**  
-*Month Year - Present*  
-- Developed dashboards to visualize project data and enhance reporting processes.
-- Collaborated with different departments to provide data-driven insights and support.
-
-### Data Scientist and Developer  
-**Fundação Getulio Vargas (FGV)**  
-*Month Year - Month Year*  
-- Conducted performance testing of institutional platforms.
-- Created customized tools to optimize customer service and demand management.
-
-## Projects 🚀
-
-- **[Project Title 1](link_to_project)**: Brief description of the project.
-- **[Project Title 2](link_to_project)**: Brief description of the project.
+  Universidade de Brasília - 2024
 
 ## Download My CV 📄
 
